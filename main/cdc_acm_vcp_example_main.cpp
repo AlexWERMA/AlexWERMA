@@ -22,7 +22,7 @@
 using namespace esp_usb;
 
 // Change these values to match your needs
-#define EXAMPLE_BAUDRATE     (115200)
+#define EXAMPLE_BAUDRATE     (9600)
 #define EXAMPLE_STOP_BITS    (0)      // 0: 1 stopbit, 1: 1.5 stopbits, 2: 2 stopbits
 #define EXAMPLE_PARITY       (0)      // 0: None, 1: Odd, 2: Even, 3: Mark, 4: Space
 #define EXAMPLE_DATA_BITS    (8)
